@@ -1,0 +1,6 @@
+1691814431020	geckodriver	INFO	Listening on 127.0.0.1:49481
+1691814431088	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4g/5d3pmhpd53zblb3_m3n3x9jw0000gn/T/rust_mozprofileFls4w5"
+WebDriver BiDi listening on ws://127.0.0.1:49482
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:49482/devtools/browser/378e846d-0a51-46a1-9a85-25a64b4b0907
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
